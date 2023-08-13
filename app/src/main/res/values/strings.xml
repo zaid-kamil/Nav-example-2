@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Nav example 2</string>
+    <string name="cat1">Rock</string>
+    <string name="cat2">Pop</string>
+    <string name="cat3">Jazz</string>
+    <string name="cat4">Metal</string>
+    <string name="cat5">Blues</string>
+    <string name="cat6">Country</string>
+</resources>
